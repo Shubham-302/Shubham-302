@@ -1,16 +1,16 @@
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img width="33%" align="right"   src="https://github.com/Shubham-302/Shubham-302/blob/main/workbench.svg" 
+<img width="33%" align="right"   src="https://github.com/gursimarsm/gursimarsm/blob/main/workbench.svg" >
 
 
 ```yaml
 Bio:
-    Name: "Shubham"
-    Role: "Full Stack Developer, "Speaker", Database Administrator, JAVA/C++ developer"
+    Name: "Shubham Bansal"
+    Role: "Full Stack Developer", "Database Administrator", "Java/C++ Developer"
     Education: "Computer Science Engineering"
-    Location: "Chandigarh, INDIA"
-    Fun Fact: "Consultant, Social Media Expert"
-   
+    Location: "Chandigarh, India"
+    Fun Fact: "Social Media Expert, Speaker"
+    
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2> Technical Skills 🛠 </h2>
@@ -28,7 +28,7 @@ Bio:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <a> <img src="https://th.bing.com/th/id/R.73224ff83996ff1edc9c3532e965d393?rik=YgYv4DaVqfRBwg&riu=http%3a%2f%2fwww.techcentral.ie%2fwp-content%2fuploads%2f2015%2f08%2fCOBOL_logo_web.jpg&ehk=Oy%2fT%2fRJGTIU2IrM3JY%2ftUCOO9l6u4%2f4D7XWVyiQrpm8%3d&risl=&pid=ImgRaw&r=0" width="70" height="25"/> </a>
-
+![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 <h3 align="left">Cloud & DevOps:</h3>
@@ -114,28 +114,13 @@ Bio:
 <h2> Connect with me: </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gursimarsm/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://medium.com/@gursimarsm"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="mailto:gursimarsm@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/gursimarsm"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/shubham-bansal1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+
+  <a href="mailto:officialshubham.302@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://twitter.com/shubham1036"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 </p>
   <!---   <a href="https://hub.docker.com/u/xxxxxxx"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> --->
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### ✍️ Blog Posts :
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/0" alt="Recent Article 0">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/1" alt="Recent Article 1">
-        <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/2" alt="Recent Article 2">
-            <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/3" alt="Recent Article 3">
-                <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gursimarsm/4" alt="Recent Article 4">
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h2><i>Random dev joke for you! </i></h2>
-
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> -->
-
-### Here's a Dev Quote in case you're not into jokes!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
