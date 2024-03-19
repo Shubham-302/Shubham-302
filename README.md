@@ -1,4 +1,4 @@
-<h1  align="center">  What's up, 𝐟𝐞𝐥𝐥𝐨𝐰 <inventors/>!</h1>
+<h1  align="center">  What's up, 𝐟𝐞𝐥𝐥𝐨𝐰 <inventors/> !</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img width="33%" align="right"   src="https://github.com/gursimarsm/gursimarsm/blob/main/workbench.svg" >
 
