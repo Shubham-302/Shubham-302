@@ -27,7 +27,6 @@ Bio:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<a> <img src="https://th.bing.com/th/id/R.73224ff83996ff1edc9c3532e965d393?rik=YgYv4DaVqfRBwg&riu=http%3a%2f%2fwww.techcentral.ie%2fwp-content%2fuploads%2f2015%2f08%2fCOBOL_logo_web.jpg&ehk=Oy%2fT%2fRJGTIU2IrM3JY%2ftUCOO9l6u4%2f4D7XWVyiQrpm8%3d&risl=&pid=ImgRaw&r=0" width="70" height="25"/> </a>
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
