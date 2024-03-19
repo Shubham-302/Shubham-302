@@ -1,6 +1,6 @@
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img width="33%" align="right"   src="https://github.com/gursimarsm/gursimarsm/blob/main/workbench.svg" >
+<img width="33%" align="right"   src="https://github.com/shubham-302/shubham-302/blob/main/workbench.svg" >
 
 
 ```yaml
@@ -50,20 +50,14 @@ Bio:
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
-<h3 align="left">Big Data:</h3>
-
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/70017872/159570562-720d5f46-5729-4324-a3a9-c8a13dd4ef4e.png" alt="hadoop" width="90" height="30"/> </a>
-![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
-
 
 <h3 align="left">Operating Systems:</h3>
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-[![centOS](https://img.shields.io/badge/CentOS-8.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+
 
 <h3 align="left">Web Development:</h3>
 
@@ -73,9 +67,6 @@ Bio:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="left">Mobile App Development:</h3>
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <h3 align="left">Designing:</h3>
 
@@ -87,22 +78,16 @@ Bio:
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 
 <h3 align="left">Data Science & Machine Learning:</h3>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-
-<h3 align="left">Quantum Computing:</h3>
-
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 <h3 align="left">CRM:</h3>
 
@@ -115,7 +100,6 @@ Bio:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-bansal1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-
   <a href="mailto:officialshubham.302@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/shubham1036"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 </p>
