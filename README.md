@@ -57,10 +57,15 @@ Bio:
 <h3 align="left">Web Development:</h3>
 
 <a> <img src="https://th.bing.com/th/id/R.a89da1f0dab6e74fa8e0075ed72b0aa3?rik=9jxZkxIFyVUhDA&riu=http%3a%2f%2fandypanix.com%2fsites%2fandypanix.com%2ffiles%2f134%2fhttpdlogowide.png&ehk=OfhOiYPyQidg5IH2zahJkpPX1%2b%2fcHH%2bB5Zi3vlLEHJI%3d&risl=&pid=ImgRaw&r=0" width="65" height="35"/> </a>
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 <h3 align="left">Designing:</h3>
@@ -73,6 +78,7 @@ Bio:
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
